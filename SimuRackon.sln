@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuRackon", "SimuRackon.Desktop\SimuRackon.Desktop.csproj", "{C2128920-456C-4BCD-A21B-5EBFFD4F7554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuRackon.Core", "SimuRackon.Core\SimuRackon.Core.csproj", "{322933F3-F87A-4B8F-B2EC-49152D6F7BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2128920-456C-4BCD-A21B-5EBFFD4F7554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2128920-456C-4BCD-A21B-5EBFFD4F7554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2128920-456C-4BCD-A21B-5EBFFD4F7554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2128920-456C-4BCD-A21B-5EBFFD4F7554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322933F3-F87A-4B8F-B2EC-49152D6F7BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322933F3-F87A-4B8F-B2EC-49152D6F7BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322933F3-F87A-4B8F-B2EC-49152D6F7BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322933F3-F87A-4B8F-B2EC-49152D6F7BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
